@@ -139,10 +139,7 @@ python code.py
 
 The best model achieved the following performance on the test set:
 
-- **Test Accuracy**: 0.8955
-- **Test Precision**: 0.8857
-- **Test Recall**: 0.9118
-- **Test F1 Score**: 0.8986
+  ![Confusion Matrix](confusionMatrix.png)
 
 The confusion matrix (generated during testing) provides a detailed breakdown of true positives, true negatives, false positives, and false negatives.
 
